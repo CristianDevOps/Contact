@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Contact</string>
+    <string name="app_name">Contactos</string>
+    <string name="tv_card_welcome">¡BIENVENIDOS!</string>
+    <!-- DEFAULT TEXT OF COMPONENT LAYOUT -->
+    <string name="tag_gender">Selecciona género</string>
+    <string name="tag_name">Nombre*</string>
+    <string name="tag_phone">Télefono*</string>
+    <string name="tag_email">Correo*</string>
+    <!--  DEFAULT TEXT OF COMPONENT BUTTON -->
+    <string name="tag_button_registry">- GUARDAR CONTACTOS -</string>
+    <!-- HELPERTEXT -->
+    <string name="helper_text">*Requerido</string>
 </resources>
