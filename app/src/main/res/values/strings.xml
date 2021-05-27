@@ -2,7 +2,7 @@
     <string name="app_name">Contactos</string>
     <string name="tv_card_welcome">¡BIENVENIDOS!</string>
     <!-- DEFAULT TEXT OF COMPONENT LAYOUT -->
-    <string name="tag_gender">Selecciona género</string>
+    <string name="tag_gender">Género</string>
     <string name="tag_name">Nombre*</string>
     <string name="tag_phone">Télefono*</string>
     <string name="tag_email">Correo*</string>
